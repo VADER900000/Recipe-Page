@@ -1,0 +1,14 @@
+body{
+  background-color: #f3e5d8;
+}
+.mainContainer{
+  background-color: white;
+  width: 90%;
+  align-items: center;
+  text-align: center;
+}
+.Omelette{
+  width: 50%;
+  border-radius: 20px;
+  margin: auto;
+}

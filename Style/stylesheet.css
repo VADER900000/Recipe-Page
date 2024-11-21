@@ -73,9 +73,14 @@ td {
 }
 
 td:first-child {
-  color: #555; /* Text color for the label column */
+  color: #555; 
 }
 
 .strongER {
-  color: #a33; /* Highlighted color for values */
+  color: #a33; /
+}
+@media only screen and (max-width: 600px) {
+  .mainContainer{
+    width: 90%;
+  }
 }
